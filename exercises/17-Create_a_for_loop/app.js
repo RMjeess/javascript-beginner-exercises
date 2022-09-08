@@ -4,5 +4,4 @@ function standardsMaker(){
   }	
 }
 
-
 standardsMaker();
