@@ -1,4 +1,4 @@
-# Javascript Practice :sparkles:
+# Javascript Beginner :sparkles:
 
 This is part of a series of auto-graded exercises to practice Javascript. Credit goes to <a href="https://github.com/4GeeksAcademy">4Geeks Academy</a>. I will link the original repos in the correct order below. The difficulty of the exercises increases progressively, so it is recommended that they're solved in this order.
 
